@@ -1,0 +1,58 @@
+.ktm-jawa{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ktm{
+    border: 1px solid black;
+    width: 400px;
+}
+.ktm-img{
+    height: 372px;
+    width: 400px;
+}
+.ktm-para{
+    width: 389px;
+    margin-left: 12px;
+}
+.jawa{
+    border: 1px solid black;
+    width: 450px;
+}
+.jawa-img{
+    height: 372px;
+    width: 450px;
+}
+.jawa-para{
+    width: 450px;
+    margin-left: 12px;
+}
+.r15-ninja{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 71px;
+}
+.r15{
+    border: 1px solid black;
+    width: 450px;
+}
+.r15-img{
+    width: 450px;
+    height: 372px;
+}
+.r15-para{
+    width: 419px;
+    margin-left: 12px;
+}
+.ninja{
+    border: 1px solid black;
+    width: 450px;
+    margin-right: 24px;
+}
+.ninja-img{
+    height: 372px;
+    width: 450px;
+}
+.ninja-para{
+    width: 430px;
+     margin-left: 15px;
+}
