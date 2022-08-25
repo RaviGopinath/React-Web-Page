@@ -1,0 +1,22 @@
+.propps{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+
+}
+.propps img{
+    height: 350px;
+    width: 337px;
+}
+.spans{
+    margin-left: 100px;
+}
+h2{
+    margin-top: 73px;
+}
+.line3{
+    background-color: blue;
+    height: 3px;
+    width: 208px;
+    margin-top: -12px;
+}

@@ -4,6 +4,7 @@ import Head from "./header/head";
 import Body from "./body/body";
 import Images from "./imgcontent/imageContent";
 import Contact from "./contact/contact";
+import Props from './p/props';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Body />
       <Images />
       <Contact />
+      <Props />
     </div>
   );
 }
